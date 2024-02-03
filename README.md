@@ -22,7 +22,9 @@ Everything about **LLM/FM for Wireless Communication and Networking**, including
 
 ## 2. Research Papers 
 
-Large Language Models for Telecom: The Next Big Thing?  IEEE Communications Magazine, 2024. ([pdf]((https://arxiv.org/abs/2306.10249)))
+Large Language Models for Telecom: The Next Big Thing?,  IEEE Communications Magazine, 2024. ([pdf]((https://arxiv.org/abs/2306.10249)))
+
+Large Language Models Empowered Autonomous Edge AI for Connected Intelligence,  IEEE Communications Magazine, 2024. ([pdf](https://ieeexplore.ieee.org/document/10384606))
 
 PromptFL: Let Federated Participants Cooperatively Learn Prompts Instead of Models — Federated Learning in Age of Foundation Model, IEEE Transactions on Mobile Computing (TMC) 2023. ([pdf](https://ieeexplore.ieee.org/document/10210127))
 
