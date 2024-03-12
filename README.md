@@ -40,6 +40,8 @@ Adapting Foundation Models for Information Synthesis of Wireless Communication S
 
 From Multilayer Perceptron to GPT: A Reflection on Deep Learning Research for Wireless Physical Layer, 2023. ([pdf](https://arxiv.org/abs/2307.07359))
 
+Large AI Model Empowered Multimodal Semantic Communications, 2023. ([pdf](https://arxiv.org/abs/2309.01249))
+
 
 
 ## 3. Tutorials and Videos
