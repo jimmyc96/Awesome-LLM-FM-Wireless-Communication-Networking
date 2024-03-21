@@ -2,10 +2,7 @@
 
 
 
-Everything about **LLM/FM for Wireless Communication and Networking**, including research papers, books, codes, datasets, videos,  tutorials, and other relevant resources, with a focus on the integration of **federated learning**.
-
-### 0.Table of contents 
-
+Everything about **LLM/FM for Wireless Communication and Networking**, including research papers, books, codes, datasets, videos,  tutorials, and other relevant resources. The recent advances of the **generative AI** and the interpaly between **federated learning** and LLM/FM over wireless networks will also be covered.
 
 
 ## 1. Journal, Magazine, Conference, Workshop, Call for Papers (CFP)
@@ -50,7 +47,14 @@ Network Meets ChatGPT: Intent Autonomous Management, Control and Operation, Jour
 
 PromptFL: Let Federated Participants Cooperatively Learn Prompts Instead of Models — Federated Learning in Age of Foundation Model, IEEE Transactions on Mobile Computing (TMC) 2023. ([pdf](https://ieeexplore.ieee.org/document/10210127))
 
+Unleashing the Power of Edge-Cloud Generative AI in Mobile Networks: A Survey of AIGC Services, IEEE Communications Surveys & Tutorials, 2024. ([pdf](https://ieeexplore.ieee.org/abstract/document/10398474)) 
+
+
+
 ### Preprint
+
+Big AI Models for 6G Wireless Networks: Opportunities, Challenges, and Research Directions, 2023. ([pdf](https://arxiv.org/abs/2308.06250)) 
+
 Semantic Communications using Foundation Models: Design Approaches and Open Issues, 2023. ([pdf](https://arxiv.org/abs/2309.13315))
 
 The Role of Federated Learning in a Wireless World with Foundation Models, 2023. ([pdf](https://arxiv.org/abs/2310.04003))
@@ -64,6 +68,10 @@ Large AI Model Empowered Multimodal Semantic Communications, 2023. ([pdf](https:
 Foundation Model Based Native AI Framework in 6G with Cloud-Edge-End Collaboration, 2023. ([pdf](https://arxiv.org/abs/2310.17471))
 
 An Edge-Cloud Collaboration Framework for Generative AI Service Provision with Synergetic Big Cloud Model and Small Edge Models, 2024. ([pdf](https://arxiv.org/abs/2401.01666))
+
+Cached Model-as-a-Resource: Provisioning Large Language Model Agents for Edge Intelligence in Space-air-ground Integrated Networks, 2024. ([pdf](https://arxiv.org/abs/2403.05826)) 
+
+
 
 
 ## 3. Tutorials, Videos, and Open source platform
