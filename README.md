@@ -68,10 +68,13 @@ An Edge-Cloud Collaboration Framework for Generative AI Service Provision with S
 
 ## 3. Tutorials, Videos, and Open source platform
 
-**FederatedScopeLLM** by Alibaba [Code](https://github.com/alibaba/FederatedScope/tree/llm)
+**FederatedScopeLLM** by Alibaba [Code](https://github.com/alibaba/FederatedScope/tree/llm) 
+
 FederatedScope-LLM: A Comprehensive Package for Fine-tuning Large Language Models in Federated Learning ([pdf](https://arxiv.org/abs/2309.00363))  
 
 **FATE-LLM** by Webank [Code](https://github.com/FederatedAI/FATE-LLM)
+
+FATE-LLM: A Industrial Grade Federated Learning Framework for Large Language Models ([pdf](https://arxiv.org/abs/2310.10049))
 
 
 
