@@ -38,6 +38,10 @@ Everything about **LLM/FM for Wireless Communication and Networking**, including
 
 **FMsys Workshop** **[International Workshop on Foundation Models for Cyber-Physical Systems & Internet of Things](https://fmsys24.github.io/)** co-located with CPS-IoT Week, 2024.
 
+**IEEE MeditCom 2024 Workshop** on  **[Explainable and Responsible AI/GenAI for 6G Networks (6GBRAIN)](https://meditcom2024.ieee-meditcom.org/workshop/ws-05-1st-international-workshop-explainable-and-responsible-aigenai-6g-networks-6gbrain)**, 2024  
+
+
+
 ##  2. Research Papers 
 
 ### Published
