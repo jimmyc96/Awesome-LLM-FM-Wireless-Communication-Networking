@@ -36,6 +36,8 @@ Everything about **LLM/FM for Wireless Communication and Networking**, including
 
 **FL@FM-IJCAI'24 Workshop** on **[Federated Learning in the Age of Foundation Models](https://federated-learning.org/fl@fm-ijcai-2024/)**, 2024
 
+**FMsys Workshop** **[International Workshop on Foundation Models for Cyber-Physical Systems & Internet of Things](https://fmsys24.github.io/)** co-located with CPS-IoT Week, 2024.
+
 ##  2. Research Papers 
 
 ### Published
@@ -49,7 +51,9 @@ PromptFL: Let Federated Participants Cooperatively Learn Prompts Instead of Mode
 
 Unleashing the Power of Edge-Cloud Generative AI in Mobile Networks: A Survey of AIGC Services, IEEE Communications Surveys & Tutorials, 2024. ([pdf](https://ieeexplore.ieee.org/abstract/document/10398474)) 
 
+The Role of Federated Learning in a Wireless World with Foundation Models, IEEE Wireless Communications, 2024. ([pdf](https://arxiv.org/abs/2310.04003))
 
+AI Embodiment Through 6G: Shaping the Future of AGI, IEEE Wireless Communications, 2024. ([pdf](https://www.techrxiv.org/doi/full/10.36227/techrxiv.24435217.v2))
 
 ### Preprint
 
@@ -57,7 +61,7 @@ Big AI Models for 6G Wireless Networks: Opportunities, Challenges, and Research 
 
 Semantic Communications using Foundation Models: Design Approaches and Open Issues, 2023. ([pdf](https://arxiv.org/abs/2309.13315))
 
-The Role of Federated Learning in a Wireless World with Foundation Models, 2023. ([pdf](https://arxiv.org/abs/2310.04003))
+
 
 Adapting Foundation Models for Information Synthesis of Wireless Communication Specifications, 2023. ([pdf](https://arxiv.org/abs/2308.04033))
 
