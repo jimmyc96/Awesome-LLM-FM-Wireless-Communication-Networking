@@ -9,15 +9,23 @@ Everything about **LLM/FM for Wireless Communication and Networking**, including
 
 ### Journal/ Magazine CFP
 
+### Opened SI
+**China Communications** Special Issue on **[Convergence of 6G-empowered Edge Intelligence and Generative AI: Theories, Algorithms, and Applications](http://www.cic-chinacommunications.cn/EN/news/news148.shtml)**, 2024
+
+**IEEE IEEE Vehicular Technology Magazine** Special Issue on **[Integrating Generative AI into Future Internet of Vehicles (IoV)](https://ieeevtc.org/vtmagazine/specisu--GenAI-IoV.php)**, 2024
+
+**Digital Communications and Networks** Special Issue on **[6G in the Era of Large Models: Design, Applications and Beyond](https://mp.weixin.qq.com/s/nxbCtbDt82pQGF2cHIZXZg)**, 2024
+
+
+### Passed/Closed SI
 **IEEE Wireless Communication Magazine** Special Issue on **[Sustainable Big AI Model for Wireless Networks](https://www.comsoc.org/publications/magazines/ieee-wireless-communications/cfp/sustainable-big-ai-model-wireless-networks)**, 2023
 
 **IEEE Network** Special Issue on **[The Interplay Between Generative AI and 5G-Advanced toward 6G](https://www.comsoc.org/publications/magazines/ieee-network/cfp/interplay-between-generative-ai-and-5g-advanced-toward-6g)**, 2023
 
 **IEEE Transactions on Cognitive Communications and Networking** Special Issue on **[Generative AI for Next-Generation Networks and Communication: Challenges and Solutions](https://www.comsoc.org/publications/journals/ieee-tccn/cfp/generative-ai-next-generation-networks-and-communication)**, 2024
 
-**Digital Communications and Networks** Special Issue on **[6G in the Era of Large Models: Design, Applications and Beyond](https://mp.weixin.qq.com/s/nxbCtbDt82pQGF2cHIZXZg)**, 2024
 
-**China Communications** Special Issue on **[Convergence of 6G-empowered Edge Intelligence and Generative AI: Theories, Algorithms, and Applications](http://www.cic-chinacommunications.cn/EN/news/news148.shtml)**, 2024
+
 
 
 ### Conference & Workshop CFP & Paper list
