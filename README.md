@@ -48,6 +48,7 @@ Everything about **LLM/FM for Wireless Communication and Networking**, including
 
 **IEEE MeditCom 2024 Workshop** on  **[Explainable and Responsible AI/GenAI for 6G Networks (6GBRAIN)](https://meditcom2024.ieee-meditcom.org/workshop/ws-05-1st-international-workshop-explainable-and-responsible-aigenai-6g-networks-6gbrain)**, 2024  
 
+**IEEE/CIC ICCC 2024 Workshop** on **[Empowering Wireless Communications and Networking with Generative AI](https://iccc2024.ieee-iccc.org/workshop/empowering-wireless-communications-and-networking-generative-ai)**, 2024
 
 
 ##  2. Research Papers 
