@@ -25,7 +25,10 @@ Everything about **LLM/FM for Wireless Communication and Networking**, including
 **IEEE Transactions on Cognitive Communications and Networking** Special Issue on **[Generative AI for Next-Generation Networks and Communication: Challenges and Solutions](https://www.comsoc.org/publications/journals/ieee-tccn/cfp/generative-ai-next-generation-networks-and-communication)**, 2024
 
 
+**SCIENCE CHINA Information Sciences** Special Issue on **[Integration of Large AI Model and 6G](https://mp.weixin.qq.com/s/DMGAsc3jM1dEpIYLvb9ChQ)**, 2024.
 
+
+****
 
 
 ### Conference & Workshop CFP & Paper list
@@ -49,6 +52,9 @@ Everything about **LLM/FM for Wireless Communication and Networking**, including
 **IEEE MeditCom 2024 Workshop** on  **[Explainable and Responsible AI/GenAI for 6G Networks (6GBRAIN)](https://meditcom2024.ieee-meditcom.org/workshop/ws-05-1st-international-workshop-explainable-and-responsible-aigenai-6g-networks-6gbrain)**, 2024  
 
 **IEEE/CIC ICCC 2024 Workshop** on **[Empowering Wireless Communications and Networking with Generative AI](https://iccc2024.ieee-iccc.org/workshop/empowering-wireless-communications-and-networking-generative-ai)**, 2024
+
+
+**IEEE Globecom 2024 Workshop** on **[The Impact of Multi-modal Large Language Models on 6G and Beyond](https://sites.google.com/view/mllmonet-2024/home)** , 2024
 
 
 ##  2. Research Papers 
