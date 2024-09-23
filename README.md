@@ -28,6 +28,9 @@ Everything about **LLM/FM for Wireless Communication and Networking**, including
 **SCIENCE CHINA Information Sciences** Special Issue on **[Integration of Large AI Model and 6G](https://mp.weixin.qq.com/s/DMGAsc3jM1dEpIYLvb9ChQ)**, 2024.
 
 
+**IEEE Network** Special Issue on **[Empowering Future Mobile Networks with Large Models](https://www.comsoc.org/publications/magazines/ieee-network/cfp/empowering-future-mobile-networks-large-models)**
+
+
 ****
 
 
