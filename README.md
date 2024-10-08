@@ -16,6 +16,12 @@ Everything about **LLM/FM for Wireless Communication and Networking**, including
 
 **Digital Communications and Networks** Special Issue on **[6G in the Era of Large Models: Design, Applications and Beyond](https://mp.weixin.qq.com/s/nxbCtbDt82pQGF2cHIZXZg)**, 2024
 
+**IEEE Communications Magazine** Special Issue on **[Generative Foundation Models for Communications](https://www.comsoc.org/publications/magazines/ieee-communications-magazine/cfp/generative-foundation-models-communications)**
+
+**IEEE Internet of Things Magazine** Special Issue on **[Applications of Large Language Models in Internet of Things](https://www.comsoc.org/publications/magazines/ieee-internet-things-magazine/cfp/applications-large-language-models)**
+
+**IEEE Journal on Selected Areas in Communications ** Special Issue on **[Large AI Model for Future Wireless Communication Systems](https://www.comsoc.org/publications/journals/ieee-jsac/cfp/large-ai-model-future-wireless-communication-systems)**
+
 
 ### Passed/Closed SI
 **IEEE Wireless Communication Magazine** Special Issue on **[Sustainable Big AI Model for Wireless Networks](https://www.comsoc.org/publications/magazines/ieee-wireless-communications/cfp/sustainable-big-ai-model-wireless-networks)**, 2023
@@ -31,7 +37,6 @@ Everything about **LLM/FM for Wireless Communication and Networking**, including
 **IEEE Network** Special Issue on **[Empowering Future Mobile Networks with Large Models](https://www.comsoc.org/publications/magazines/ieee-network/cfp/empowering-future-mobile-networks-large-models)**
 
 
-****
 
 
 ### Conference & Workshop CFP & Paper list
@@ -56,8 +61,9 @@ Everything about **LLM/FM for Wireless Communication and Networking**, including
 
 **IEEE/CIC ICCC 2024 Workshop** on **[Empowering Wireless Communications and Networking with Generative AI](https://iccc2024.ieee-iccc.org/workshop/empowering-wireless-communications-and-networking-generative-ai)**, 2024
 
-
 **IEEE Globecom 2024 Workshop** on **[The Impact of Multi-modal Large Language Models on 6G and Beyond](https://sites.google.com/view/mllmonet-2024/home)** , 2024
+
+**AAAI 2025 Workshop** on **[Artificial Intelligence for Wireless Communications and Networking](https://aaai2025-ai4wcn.webflow.io/)**
 
 
 ##  2. Research Papers 
