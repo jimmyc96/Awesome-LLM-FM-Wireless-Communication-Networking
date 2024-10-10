@@ -30,11 +30,9 @@ Everything about **LLM/FM for Wireless Communication and Networking**, including
 
 **IEEE Transactions on Cognitive Communications and Networking** Special Issue on **[Generative AI for Next-Generation Networks and Communication: Challenges and Solutions](https://www.comsoc.org/publications/journals/ieee-tccn/cfp/generative-ai-next-generation-networks-and-communication)**, 2024
 
-
 **SCIENCE CHINA Information Sciences** Special Issue on **[Integration of Large AI Model and 6G](https://mp.weixin.qq.com/s/DMGAsc3jM1dEpIYLvb9ChQ)**, 2024.
 
-
-**IEEE Network** Special Issue on **[Empowering Future Mobile Networks with Large Models](https://www.comsoc.org/publications/magazines/ieee-network/cfp/empowering-future-mobile-networks-large-models)**
+**IEEE Network** Special Issue on **[Empowering Future Mobile Networks with Large Models](https://www.comsoc.org/publications/magazines/ieee-network/cfp/empowering-future-mobile-networks-large-models)**, 204
 
 
 
@@ -63,7 +61,12 @@ Everything about **LLM/FM for Wireless Communication and Networking**, including
 
 **IEEE Globecom 2024 Workshop** on **[The Impact of Multi-modal Large Language Models on 6G and Beyond](https://sites.google.com/view/mllmonet-2024/home)** , 2024
 
-**AAAI 2025 Workshop** on **[Artificial Intelligence for Wireless Communications and Networking](https://aaai2025-ai4wcn.webflow.io/)**
+**IEEE Globecom 2024 Workshop** on **[Generative Horizons: Exploring Goals through Semantic Communication](https://globecom2024.ieee-globecom.org/workshop/ws-22-workshop-generative-horizons-exploring-goals-through-semantic-communication)**, 2024
+
+**AAAI 2025 Workshop** on **[Artificial Intelligence for Wireless Communications and Networking](https://aaai2025-ai4wcn.webflow.io/)**, 2025
+
+
+
 
 
 ##  2. Research Papers 
