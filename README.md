@@ -20,8 +20,9 @@ Everything about **LLM/FM for Wireless Communication and Networking**, including
 
 **IEEE Internet of Things Magazine** Special Issue on **[Applications of Large Language Models in Internet of Things](https://www.comsoc.org/publications/magazines/ieee-internet-things-magazine/cfp/applications-large-language-models)**
 
-**IEEE Journal on Selected Areas in Communications ** Special Issue on **[Large AI Model for Future Wireless Communication Systems](https://www.comsoc.org/publications/journals/ieee-jsac/cfp/large-ai-model-future-wireless-communication-systems)**
+**IEEE Journal on Selected Areas in Communications** Special Issue on **[Large AI Model for Future Wireless Communication Systems](https://www.comsoc.org/publications/journals/ieee-jsac/cfp/large-ai-model-future-wireless-communication-systems)**
 
+**EURASIP Journal on Wireless Communications and Networking** Special Issue on **[Integrating Large Models and Edge Sensing in Next Generation Networks](https://link.springer.com/collections/fhdiacjebi)**
 
 ### Passed/Closed SI
 **IEEE Wireless Communication Magazine** Special Issue on **[Sustainable Big AI Model for Wireless Networks](https://www.comsoc.org/publications/magazines/ieee-wireless-communications/cfp/sustainable-big-ai-model-wireless-networks)**, 2023
