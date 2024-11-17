@@ -24,6 +24,13 @@ Everything about **LLM/FM for Wireless Communication and Networking**, including
 
 **EURASIP Journal on Wireless Communications and Networking** Special Issue on **[Integrating Large Models and Edge Sensing in Next Generation Networks](https://link.springer.com/collections/fhdiacjebi)**
 
+**IEEE Network** Special Issue on **[Generative AI for Secure Communications and Networking
+](https://www.comsoc.org/publications/magazines/ieee-network/cfp/generative-ai-secure-communications-and-networking)**
+
+**IEEE Communications Magazine** Special Issue on **[Generative Foundation Models for Communications
+](https://www.comsoc.org/publications/magazines/ieee-communications-magazine/cfp/generative-foundation-models-communications)**
+
+
 ### Passed/Closed SI
 **IEEE Wireless Communication Magazine** Special Issue on **[Sustainable Big AI Model for Wireless Networks](https://www.comsoc.org/publications/magazines/ieee-wireless-communications/cfp/sustainable-big-ai-model-wireless-networks)**, 2023
 
@@ -38,13 +45,15 @@ Everything about **LLM/FM for Wireless Communication and Networking**, including
 **IEEE Wireless Communications** Special Issue on **[Digital Twins and Pervasive Intelligence Synergy in 6G and Beyond](https://www.comsoc.org/publications/magazines/ieee-wireless-communications/cfp/digital-twins-and-pervasive-intelligence)**, 2024
 
 
+
+
 ### Conference & Workshop CFP & Paper list
 
-**FL@FM-NeurIPS’23 Workshop** on **[Federated Learning in the Age of Foundation Models](https://federated-learning.org/fl@fm-neurips-2023/)**, 2023 
+**FL@FM-NeurIPS 23 Workshop** on **[Federated Learning in the Age of Foundation Models](https://federated-learning.org/fl@fm-neurips-2023/)**, 2023 
 
-**IEEE ICC’24 Workshop** on **[Empowering Telecom Networks with Large-Scale Language Models](https://icc2024.ieee-icc.org/workshop/ws-24-empowering-telecom-networks-large-scale-language-models)**, 2024
+**IEEE ICC 24 Workshop** on **[Empowering Telecom Networks with Large-Scale Language Models](https://icc2024.ieee-icc.org/workshop/ws-24-empowering-telecom-networks-large-scale-language-models)**, 2024
 
-**IEEE ICC’24 Workshop** on **[The Impact of Large Language Models on 6G Networks](https://sites.google.com/view/llmonet-2024/home)**, 2024
+**IEEE ICC 24 Workshop** on **[The Impact of Large Language Models on 6G Networks](https://sites.google.com/view/llmonet-2024/home)**, 2024
 
 **IEEE/IFIP Workshop** on **[Generative AI for Network Management](https://sites.google.com/view/ieee-ifip-gain24/)**, 2024
 
