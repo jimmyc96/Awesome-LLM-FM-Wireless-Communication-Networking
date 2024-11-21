@@ -31,6 +31,8 @@ Everything about **LLM/FM for Wireless Communication and Networking**, including
 ](https://www.comsoc.org/publications/magazines/ieee-communications-magazine/cfp/generative-foundation-models-communications)**
 
 
+**ACM Transactions on Internet of Things** Special issue on **[LLM Empowered Internet of Things](https://dl.acm.org/pb-assets/static_journal_pages/tiot/pdf/TIOT-CfP-LLM-Empowered-IoT.pdf)**
+
 ### Passed/Closed SI
 **IEEE Wireless Communication Magazine** Special Issue on **[Sustainable Big AI Model for Wireless Networks](https://www.comsoc.org/publications/magazines/ieee-wireless-communications/cfp/sustainable-big-ai-model-wireless-networks)**, 2023
 
