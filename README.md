@@ -77,7 +77,7 @@ Everything about **LLM/FM for Wireless Communication and Networking**, including
 
 **AAAI 2025 Workshop** on **[Artificial Intelligence for Wireless Communications and Networking](https://aaai2025-ai4wcn.webflow.io/)**, 2025
 
-
+**IEEE INFOCOM 2025 Workshop** on **[Integrating Edge Intelligence and Large Model in Next Generation Networks (IEILM)](https://infocom2025.ieee-infocom.org/2nd-workshop-integrating-edge-intelligence-and-large-model-next-generation-networks-ieilm-call)**
 
 
 
